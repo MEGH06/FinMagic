@@ -15,8 +15,8 @@ A comprehensive tool for analyzing stocks based on sentiment from news, Reddit, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/stock-analyzer.git
-cd stock-analyzer
+git clone https://github.com/megh06/FinMagic.git
+cd FinMagic
 ```
 
 2. Install dependencies:
@@ -54,8 +54,7 @@ Modify `config.py` to:
 ## Required API Keys
 
 - **Reddit API**: Register at https://www.reddit.com/prefs/apps
-- **News API** (optional): Register at https://newsapi.org
-- **Gemini API** (optional): Get API key from https://ai.google.dev/
+- **Gemini API** : Get API key from https://ai.google.dev/
 
 ## File Structure
 
